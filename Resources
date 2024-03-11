@@ -3,3 +3,12 @@ Resources:
 SYSMON
 Sysmon - https://learn.microsoft.com/en-us/sys...
 Sysmon Configuration - https://github.com/olafhartong/sysmon-modular/blob/master/sysmonconfig.xml
+1. download both sysmon and sysmonconfig.xml
+2. Extract sysmon files
+3. Move sysmonconfig.xml to sysmon location
+4. Open Powershell as admin 
+  > cd "C:\Users\filelocation" 
+  > .\Sysmon64.exe 
+  >.\Sysmon64.3xe -i .\sysmonconfig.xml
+
+

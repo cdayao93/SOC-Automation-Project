@@ -12,3 +12,9 @@ Sysmon Configuration - https://github.com/olafhartong/sysmon-modular/blob/master
   >.\Sysmon64.3xe -i .\sysmonconfig.xml
 
 
+Wazuh
+digitalocean.com
+1. Add firewall with your public IP for TCP an UDP ports. 
+2. Add firewall to your Wazuh
+3. SSH root@'wazuhpublicaddress'
+  > apt-get update && apt-get upgrade -y

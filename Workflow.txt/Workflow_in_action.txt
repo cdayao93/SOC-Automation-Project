@@ -1,0 +1,6 @@
+1. Mimikatz Alert Sent to Shuffle
+2. Shuffle Receives Mimikatz Alert
+  -Extract SHA256 Hash From File
+3. Check Reputation Score w/VirusTotal
+4. Send Details to TheHive to Create Alert
+5. Send Email to SOC Analyst to Begin Investigation

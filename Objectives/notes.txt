@@ -1,3 +1,0 @@
-Connect Shuffle (SOAR)
-Send alert to TheHive
-Send to SOC Analyst via Email
